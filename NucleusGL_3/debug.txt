@@ -1,0 +1,34 @@
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 0
+ number of vertices: 4
+before clipping Polygon 0, Vertex 0 values:  400.00,  400.00,    0.000000
+before clipping Polygon 0, Vertex 1 values:  400.00,  210.78,    0.000000
+before clipping Polygon 0, Vertex 2 values:  589.22,  210.78,    0.000000
+before clipping Polygon 0, Vertex 3 values:  589.22,  400.00,    0.000000
+after clipping Polygon 0 Vertex 0 values:y  400.00   400.00    0.000000
+after clipping Polygon 0 Vertex 1 values:y  400.00   210.78    0.000000
+after clipping Polygon 0 Vertex 2 values:y  589.22   210.78    0.000000
+after clipping Polygon 0 Vertex 3 values:y  589.22   400.00    0.000000
+ number of vertices: 4
+before clipping Polygon 1, Vertex 0 values:  400.00,  400.00,    0.000000
+before clipping Polygon 1, Vertex 1 values:  400.00,  400.00,    0.000000
+before clipping Polygon 1, Vertex 2 values:  400.00,  242.32,    0.000000
+before clipping Polygon 1, Vertex 3 values:  400.00,  210.78,    0.000000
+after clipping Polygon 1 Vertex 0 values:y  400.00   400.00    0.000000
+after clipping Polygon 1 Vertex 1 values:y  400.00   400.00    0.000000
+after clipping Polygon 1 Vertex 2 values:y  400.00   242.32    0.000000
+after clipping Polygon 1 Vertex 3 values:y  400.00   210.78    0.000000
+ number of vertices: 4
+before clipping Polygon 2, Vertex 0 values:  400.00,  400.00,    0.000000
+before clipping Polygon 2, Vertex 1 values:  589.22,  400.00,    0.000000
+before clipping Polygon 2, Vertex 2 values:  557.68,  400.00,    0.000000
+before clipping Polygon 2, Vertex 3 values:  400.00,  400.00,    0.000000
+after clipping Polygon 2 Vertex 0 values:y  400.00   400.00    0.000000
+after clipping Polygon 2 Vertex 1 values:y  589.22   400.00    0.000000
+after clipping Polygon 2 Vertex 2 values:y  557.68   400.00    0.000000
+after clipping Polygon 2 Vertex 3 values:y  400.00   400.00    0.000000
